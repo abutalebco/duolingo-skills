@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Original generic study-bird mascot (not Duolingo's character). Replace freely. -->
+  <ellipse cx="100" cy="188" rx="46" ry="6" fill="#000" opacity=".08"/>
+  <path d="M42 70 Q20 40 38 24 Q60 36 72 52 Z" fill="#46A302"/>
+  <path d="M158 70 Q180 40 162 24 Q140 36 128 52 Z" fill="#46A302"/>
+  <ellipse cx="100" cy="108" rx="64" ry="72" fill="#58CC02"/>
+  <ellipse cx="100" cy="136" rx="40" ry="38" fill="#89E219"/>
+  <circle cx="74" cy="82" r="24" fill="#fff"/><circle cx="126" cy="82" r="24" fill="#fff"/>
+  <circle cx="80" cy="86" r="11" fill="#1F3A00"/><circle cx="120" cy="86" r="11" fill="#1F3A00"/>
+  <circle cx="84" cy="82" r="3.5" fill="#fff"/><circle cx="124" cy="82" r="3.5" fill="#fff"/>
+  <path d="M88 104 L112 104 L100 124 Z" fill="#FF9600"/>
+  <path d="M82 40 Q100 28 118 40" stroke="#46A302" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <ellipse cx="82" cy="182" rx="14" ry="6" fill="#FF9600"/><ellipse cx="118" cy="182" rx="14" ry="6" fill="#FF9600"/>
+</svg>

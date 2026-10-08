@@ -1,0 +1,69 @@
+{
+ "lang": "ko",
+ "title": "Korean",
+ "subtitle": "Starter: words & sentences",
+ "sections": [
+  {
+   "title": "Everyday words",
+   "type": "words",
+   "items": [
+    {
+     "text": "안녕하세요",
+     "roman": "annyeonghaseyo",
+     "meaning": "hello"
+    },
+    {
+     "text": "감사합니다",
+     "roman": "gamsahamnida",
+     "meaning": "thank you"
+    },
+    {
+     "text": "물",
+     "roman": "mul",
+     "meaning": "water"
+    },
+    {
+     "text": "학생",
+     "roman": "haksaeng",
+     "meaning": "student"
+    },
+    {
+     "text": "선생님",
+     "roman": "seonsaengnim",
+     "meaning": "teacher"
+    },
+    {
+     "text": "고양이",
+     "roman": "goyangi",
+     "meaning": "cat"
+    },
+    {
+     "text": "사과",
+     "roman": "sagwa",
+     "meaning": "apple"
+    }
+   ]
+  },
+  {
+   "title": "Short sentences",
+   "type": "sentences",
+   "items": [
+    {
+     "text": "저는 학생이에요.",
+     "roman": "jeoneun haksaeng-ieyo",
+     "meaning": "I am a student."
+    },
+    {
+     "text": "물을 마셔요.",
+     "roman": "mureul masyeoyo",
+     "meaning": "I drink water."
+    },
+    {
+     "text": "한국어를 공부해요.",
+     "roman": "hangugeoreul gongbuhaeyo",
+     "meaning": "I study Korean."
+    }
+   ]
+  }
+ ]
+}

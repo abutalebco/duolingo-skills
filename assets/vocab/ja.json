@@ -1,0 +1,154 @@
+{
+ "lang": "ja",
+ "title": "Japanese",
+ "subtitle": "Starter: kana, words & sentences",
+ "sections": [
+  {
+   "title": "Hiragana: vowels and K-row",
+   "type": "words",
+   "note": "Say each sound aloud while writing it. Cover the faded copy on the last cells.",
+   "items": [
+    {
+     "text": "あ",
+     "roman": "a"
+    },
+    {
+     "text": "い",
+     "roman": "i"
+    },
+    {
+     "text": "う",
+     "roman": "u"
+    },
+    {
+     "text": "え",
+     "roman": "e"
+    },
+    {
+     "text": "お",
+     "roman": "o"
+    },
+    {
+     "text": "か",
+     "roman": "ka"
+    },
+    {
+     "text": "き",
+     "roman": "ki"
+    },
+    {
+     "text": "く",
+     "roman": "ku"
+    },
+    {
+     "text": "け",
+     "roman": "ke"
+    },
+    {
+     "text": "こ",
+     "roman": "ko"
+    }
+   ]
+  },
+  {
+   "title": "Everyday words",
+   "type": "words",
+   "items": [
+    {
+     "text": "こんにちは",
+     "roman": "konnichiwa",
+     "meaning": "hello"
+    },
+    {
+     "text": "ありがとう",
+     "roman": "arigatou",
+     "meaning": "thank you"
+    },
+    {
+     "text": "水",
+     "reading": "みず",
+     "roman": "mizu",
+     "meaning": "water"
+    },
+    {
+     "text": "山",
+     "reading": "やま",
+     "roman": "yama",
+     "meaning": "mountain"
+    },
+    {
+     "text": "猫",
+     "reading": "ねこ",
+     "roman": "neko",
+     "meaning": "cat"
+    },
+    {
+     "text": "学生",
+     "reading": "がくせい",
+     "roman": "gakusei",
+     "meaning": "student"
+    },
+    {
+     "text": "先生",
+     "reading": "せんせい",
+     "roman": "sensei",
+     "meaning": "teacher"
+    },
+    {
+     "text": "日本語",
+     "reading": "にほんご",
+     "roman": "nihongo",
+     "meaning": "Japanese (language)"
+    },
+    {
+     "text": "ご飯",
+     "reading": "ごはん",
+     "roman": "gohan",
+     "meaning": "rice / meal"
+    },
+    {
+     "text": "友達",
+     "reading": "ともだち",
+     "roman": "tomodachi",
+     "meaning": "friend"
+    }
+   ]
+  },
+  {
+   "title": "Short sentences",
+   "type": "sentences",
+   "items": [
+    {
+     "text": "わたしは学生です。",
+     "reading": "わたしはがくせいです。",
+     "roman": "watashi wa gakusei desu",
+     "meaning": "I am a student."
+    },
+    {
+     "text": "水を飲みます。",
+     "reading": "みずをのみます。",
+     "roman": "mizu o nomimasu",
+     "meaning": "I drink water."
+    },
+    {
+     "text": "日本語が好きです。",
+     "reading": "にほんごがすきです。",
+     "roman": "nihongo ga suki desu",
+     "meaning": "I like Japanese."
+    },
+    {
+     "text": "駅はどこですか。",
+     "reading": "えきはどこですか。",
+     "roman": "eki wa doko desu ka",
+     "meaning": "Where is the station?"
+    },
+    {
+     "text": "毎日ご飯を食べます。",
+     "reading": "まいにちごはんをたべます。",
+     "roman": "mainichi gohan o tabemasu",
+     "meaning": "I eat rice every day."
+    }
+   ]
+  }
+ ]
+}

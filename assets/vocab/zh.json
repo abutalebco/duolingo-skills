@@ -1,0 +1,110 @@
+{
+ "lang": "zh",
+ "title": "Chinese",
+ "subtitle": "Starter: words & sentences (Simplified)",
+ "sections": [
+  {
+   "title": "Greetings & basics",
+   "type": "words",
+   "items": [
+    {
+     "text": "你好",
+     "reading": "nǐ hǎo",
+     "meaning": "hello"
+    },
+    {
+     "text": "谢谢",
+     "reading": "xièxie",
+     "meaning": "thank you"
+    },
+    {
+     "text": "再见",
+     "reading": "zàijiàn",
+     "meaning": "goodbye"
+    },
+    {
+     "text": "对不起",
+     "reading": "duìbuqǐ",
+     "meaning": "sorry"
+    },
+    {
+     "text": "朋友",
+     "reading": "péngyou",
+     "meaning": "friend"
+    },
+    {
+     "text": "学生",
+     "reading": "xuésheng",
+     "meaning": "student"
+    },
+    {
+     "text": "老师",
+     "reading": "lǎoshī",
+     "meaning": "teacher"
+    }
+   ]
+  },
+  {
+   "title": "Food & animals",
+   "type": "words",
+   "items": [
+    {
+     "text": "水",
+     "reading": "shuǐ",
+     "meaning": "water"
+    },
+    {
+     "text": "米饭",
+     "reading": "mǐfàn",
+     "meaning": "cooked rice"
+    },
+    {
+     "text": "苹果",
+     "reading": "píngguǒ",
+     "meaning": "apple"
+    },
+    {
+     "text": "猫",
+     "reading": "māo",
+     "meaning": "cat"
+    },
+    {
+     "text": "狗",
+     "reading": "gǒu",
+     "meaning": "dog"
+    }
+   ]
+  },
+  {
+   "title": "Short sentences",
+   "type": "sentences",
+   "items": [
+    {
+     "text": "我是学生。",
+     "reading": "Wǒ shì xuésheng.",
+     "meaning": "I am a student."
+    },
+    {
+     "text": "我想喝水。",
+     "reading": "Wǒ xiǎng hē shuǐ.",
+     "meaning": "I want to drink water."
+    },
+    {
+     "text": "你叫什么名字？",
+     "reading": "Nǐ jiào shénme míngzi?",
+     "meaning": "What is your name?"
+    },
+    {
+     "text": "今天天气很好。",
+     "reading": "Jīntiān tiānqì hěn hǎo.",
+     "meaning": "The weather is nice today."
+    },
+    {
+     "text": "我喜欢学习中文。",
+     "reading": "Wǒ xǐhuan xuéxí Zhōngwén.",
+     "meaning": "I like studying Chinese."
+    }
+   ]
+  }
+ ]
+}

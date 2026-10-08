@@ -1,0 +1,9 @@
+{
+  "skill_name": "duolingo-skills",
+  "evals": [
+    {"id": 1, "prompt": "Make me a Japanese practice PDF with 12 food and drink words and 5 short sentences. Each word needs space under it to rewrite it.", "expected_output": "PDF with ja grid cards: kanji/kana words with kana reading + romaji + meaning, faded trace then blank cells; sentences wrap in cells with a blank row under each trace row.", "files": []},
+    {"id": 2, "prompt": "I'm learning Chinese. Give me a sheet for HSK1 family words in Traditional characters with pinyin, plus a typst file I can edit.", "expected_output": "Vocab JSON using config_override for Traditional fonts (Noto Sans CJK TC, region TW), pinyin with tone marks, PDF built, and the --project-dir Typst source delivered.", "files": []},
+    {"id": 3, "prompt": "Do a Spanish greetings worksheet and an Arabic one for the same topic. Same design as my Duolingo sheet.", "expected_output": "Spanish with articles on nouns on ruled lines; Arabic RTL ruled lines with harakat and transliteration; no per-letter cells for Arabic; green design guide respected; no Duolingo owl copied.", "files": []},
+    {"id": 4, "prompt": "Add Klingon too.", "expected_output": "Declines Klingon (fictional) and points to the excluded list; offers Esperanto or another real language instead.", "files": []}
+  ]
+}

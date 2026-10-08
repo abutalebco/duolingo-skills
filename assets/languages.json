@@ -1,0 +1,708 @@
+{
+ "ja": {
+  "code": "ja",
+  "name": "Japanese",
+  "native": "日本語",
+  "lang": "ja",
+  "script": "Hiragana + Katakana + Kanji",
+  "fonts": [
+   "Noto Sans CJK JP"
+  ],
+  "dir": "ltr",
+  "grid": true,
+  "reading": "kana reading + romaji (Hepburn)",
+  "region": null,
+  "tier": "core"
+ },
+ "zh": {
+  "code": "zh",
+  "name": "Chinese (Mandarin)",
+  "native": "中文",
+  "lang": "zh",
+  "script": "Hanzi (Simplified by default)",
+  "fonts": [
+   "Noto Sans CJK SC"
+  ],
+  "dir": "ltr",
+  "grid": true,
+  "reading": "pinyin with tone marks",
+  "region": "CN",
+  "tier": "core"
+ },
+ "yue": {
+  "code": "yue",
+  "name": "Cantonese",
+  "native": "粵語",
+  "lang": "zh",
+  "script": "Hanzi (Traditional, Hong Kong forms)",
+  "fonts": [
+   "Noto Sans CJK HK"
+  ],
+  "dir": "ltr",
+  "grid": true,
+  "reading": "Jyutping",
+  "region": "HK",
+  "tier": "verify"
+ },
+ "ko": {
+  "code": "ko",
+  "name": "Korean",
+  "native": "한국어",
+  "lang": "ko",
+  "script": "Hangul",
+  "fonts": [
+   "Noto Sans CJK KR"
+  ],
+  "dir": "ltr",
+  "grid": true,
+  "reading": "Revised Romanization",
+  "region": null,
+  "tier": "core"
+ },
+ "es": {
+  "code": "es",
+  "name": "Spanish",
+  "native": "Español",
+  "lang": "es",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "fr": {
+  "code": "fr",
+  "name": "French",
+  "native": "Français",
+  "lang": "fr",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "de": {
+  "code": "de",
+  "name": "German",
+  "native": "Deutsch",
+  "lang": "de",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "it": {
+  "code": "it",
+  "name": "Italian",
+  "native": "Italiano",
+  "lang": "it",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "pt": {
+  "code": "pt",
+  "name": "Portuguese (Brazilian)",
+  "native": "Português",
+  "lang": "pt",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": "BR",
+  "tier": "core"
+ },
+ "nl": {
+  "code": "nl",
+  "name": "Dutch",
+  "native": "Nederlands",
+  "lang": "nl",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "sv": {
+  "code": "sv",
+  "name": "Swedish",
+  "native": "Svenska",
+  "lang": "sv",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "no": {
+  "code": "no",
+  "name": "Norwegian (Bokmål)",
+  "native": "Norsk",
+  "lang": "nb",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "da": {
+  "code": "da",
+  "name": "Danish",
+  "native": "Dansk",
+  "lang": "da",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "fi": {
+  "code": "fi",
+  "name": "Finnish",
+  "native": "Suomi",
+  "lang": "fi",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "pl": {
+  "code": "pl",
+  "name": "Polish",
+  "native": "Polski",
+  "lang": "pl",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "cs": {
+  "code": "cs",
+  "name": "Czech",
+  "native": "Čeština",
+  "lang": "cs",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "ro": {
+  "code": "ro",
+  "name": "Romanian",
+  "native": "Română",
+  "lang": "ro",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "hu": {
+  "code": "hu",
+  "name": "Hungarian",
+  "native": "Magyar",
+  "lang": "hu",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "ca": {
+  "code": "ca",
+  "name": "Catalan",
+  "native": "Català",
+  "lang": "ca",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "la": {
+  "code": "la",
+  "name": "Latin",
+  "native": "Latina",
+  "lang": "la",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "eo": {
+  "code": "eo",
+  "name": "Esperanto",
+  "native": "Esperanto",
+  "lang": "eo",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "ru": {
+  "code": "ru",
+  "name": "Russian",
+  "native": "Русский",
+  "lang": "ru",
+  "script": "Cyrillic",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": "transliteration (optional)",
+  "region": null,
+  "tier": "core"
+ },
+ "uk": {
+  "code": "uk",
+  "name": "Ukrainian",
+  "native": "Українська",
+  "lang": "uk",
+  "script": "Cyrillic",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": "transliteration (optional)",
+  "region": null,
+  "tier": "core"
+ },
+ "el": {
+  "code": "el",
+  "name": "Greek",
+  "native": "Ελληνικά",
+  "lang": "el",
+  "script": "Greek",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": "transliteration (optional)",
+  "region": null,
+  "tier": "core"
+ },
+ "tr": {
+  "code": "tr",
+  "name": "Turkish",
+  "native": "Türkçe",
+  "lang": "tr",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "cy": {
+  "code": "cy",
+  "name": "Welsh",
+  "native": "Cymraeg",
+  "lang": "cy",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "ga": {
+  "code": "ga",
+  "name": "Irish",
+  "native": "Gaeilge",
+  "lang": "ga",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "gd": {
+  "code": "gd",
+  "name": "Scottish Gaelic",
+  "native": "Gàidhlig",
+  "lang": "gd",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "ar": {
+  "code": "ar",
+  "name": "Arabic",
+  "native": "العربية",
+  "lang": "ar",
+  "script": "Arabic (right-to-left)",
+  "fonts": [
+   "Noto Naskh Arabic",
+   "Amiri"
+  ],
+  "dir": "rtl",
+  "grid": false,
+  "reading": "transliteration",
+  "region": null,
+  "tier": "core"
+ },
+ "he": {
+  "code": "he",
+  "name": "Hebrew",
+  "native": "עברית",
+  "lang": "he",
+  "script": "Hebrew (right-to-left)",
+  "fonts": [
+   "Noto Sans Hebrew"
+  ],
+  "dir": "rtl",
+  "grid": false,
+  "reading": "transliteration",
+  "region": null,
+  "tier": "core"
+ },
+ "yi": {
+  "code": "yi",
+  "name": "Yiddish",
+  "native": "ייִדיש",
+  "lang": "yi",
+  "script": "Hebrew script (right-to-left)",
+  "fonts": [
+   "Noto Sans Hebrew"
+  ],
+  "dir": "rtl",
+  "grid": false,
+  "reading": "YIVO transliteration",
+  "region": null,
+  "tier": "verify"
+ },
+ "hi": {
+  "code": "hi",
+  "name": "Hindi",
+  "native": "हिन्दी",
+  "lang": "hi",
+  "script": "Devanagari",
+  "fonts": [
+   "Noto Sans Devanagari"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": "transliteration",
+  "region": null,
+  "tier": "core"
+ },
+ "bn": {
+  "code": "bn",
+  "name": "Bengali",
+  "native": "বাংলা",
+  "lang": "bn",
+  "script": "Bengali script",
+  "fonts": [
+   "Noto Sans Bengali"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": "transliteration",
+  "region": null,
+  "tier": "verify"
+ },
+ "ta": {
+  "code": "ta",
+  "name": "Tamil",
+  "native": "தமிழ்",
+  "lang": "ta",
+  "script": "Tamil script",
+  "fonts": [
+   "Noto Sans Tamil"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": "transliteration",
+  "region": null,
+  "tier": "verify"
+ },
+ "te": {
+  "code": "te",
+  "name": "Telugu",
+  "native": "తెలుగు",
+  "lang": "te",
+  "script": "Telugu script",
+  "fonts": [
+   "Noto Sans Telugu"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": "transliteration",
+  "region": null,
+  "tier": "verify"
+ },
+ "pa": {
+  "code": "pa",
+  "name": "Punjabi (Gurmukhi)",
+  "native": "ਪੰਜਾਬੀ",
+  "lang": "pa",
+  "script": "Gurmukhi",
+  "fonts": [
+   "Noto Sans Gurmukhi"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": "transliteration",
+  "region": null,
+  "tier": "verify"
+ },
+ "vi": {
+  "code": "vi",
+  "name": "Vietnamese",
+  "native": "Tiếng Việt",
+  "lang": "vi",
+  "script": "Latin (quốc ngữ)",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "id": {
+  "code": "id",
+  "name": "Indonesian",
+  "native": "Bahasa Indonesia",
+  "lang": "id",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "tl": {
+  "code": "tl",
+  "name": "Tagalog",
+  "native": "Tagalog",
+  "lang": "tl",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "verify"
+ },
+ "th": {
+  "code": "th",
+  "name": "Thai",
+  "native": "ไทย",
+  "lang": "th",
+  "script": "Thai script",
+  "fonts": [
+   "Noto Sans Thai"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": "RTGS / tone-marked transliteration",
+  "region": null,
+  "tier": "core"
+ },
+ "sw": {
+  "code": "sw",
+  "name": "Swahili",
+  "native": "Kiswahili",
+  "lang": "sw",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "zu": {
+  "code": "zu",
+  "name": "Zulu",
+  "native": "isiZulu",
+  "lang": "zu",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "xh": {
+  "code": "xh",
+  "name": "Xhosa",
+  "native": "isiXhosa",
+  "lang": "xh",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "verify"
+ },
+ "ht": {
+  "code": "ht",
+  "name": "Haitian Creole",
+  "native": "Kreyòl ayisyen",
+  "lang": "ht",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "nv": {
+  "code": "nv",
+  "name": "Navajo",
+  "native": "Diné bizaad",
+  "lang": "nv",
+  "script": "Latin (Navajo orthography)",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "haw": {
+  "code": "haw",
+  "name": "Hawaiian",
+  "native": "ʻŌlelo Hawaiʻi",
+  "lang": "haw",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "core"
+ },
+ "gn": {
+  "code": "gn",
+  "name": "Guarani",
+  "native": "Avañeʼẽ",
+  "lang": "gn",
+  "script": "Latin",
+  "fonts": [
+   "Nunito"
+  ],
+  "dir": "ltr",
+  "grid": false,
+  "reading": null,
+  "region": null,
+  "tier": "verify"
+ }
+}

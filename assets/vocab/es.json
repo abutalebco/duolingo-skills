@@ -1,0 +1,56 @@
+{
+ "lang": "es",
+ "title": "Spanish",
+ "subtitle": "Starter: words & sentences",
+ "sections": [
+  {
+   "title": "Everyday words",
+   "type": "words",
+   "items": [
+    {
+     "text": "hola",
+     "meaning": "hello"
+    },
+    {
+     "text": "gracias",
+     "meaning": "thank you"
+    },
+    {
+     "text": "el agua",
+     "meaning": "water",
+     "note": "feminine, uses el"
+    },
+    {
+     "text": "el gato",
+     "meaning": "cat"
+    },
+    {
+     "text": "la manzana",
+     "meaning": "apple"
+    },
+    {
+     "text": "el amigo",
+     "meaning": "friend (m.)"
+    }
+   ]
+  },
+  {
+   "title": "Short sentences",
+   "type": "sentences",
+   "items": [
+    {
+     "text": "Me llamo Ana.",
+     "meaning": "My name is Ana."
+    },
+    {
+     "text": "Quiero beber agua.",
+     "meaning": "I want to drink water."
+    },
+    {
+     "text": "¿Dónde está la biblioteca?",
+     "meaning": "Where is the library?"
+    }
+   ]
+  }
+ ]
+}
