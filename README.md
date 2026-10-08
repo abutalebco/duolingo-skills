@@ -11,7 +11,7 @@ Independent study tool; not affiliated with or endorsed by Duolingo.
 | A human | Quick start below, then `references/languages/<code>.md` for your language |
 | An agent (Claude, Codex, Cursor, ...) | `AGENTS.md` → `SKILL.md` |
 
-Covers every real language on Duolingo (47 guides). Fictional languages (Klingon, High Valyrian) are excluded.
+Covers 47 real-language guides for languages offered or recently offered by Duolingo. Fictional languages (Klingon, High Valyrian) are excluded.
 
 ## Quick start
 
@@ -22,7 +22,7 @@ python scripts/build.py assets/vocab/zh.json -o chinese.pdf --cell 1.3 --rows 2
 python scripts/build.py assets/vocab/ko.json --project-dir ./ko-typst   # keep editable .typ
 ```
 
-Options: `--cell` (cm), `--rows` (blank rows per word), `--copies` (faded repeats), `--no-intro`, `--font-path DIR`, `--fallback`.
+Options: `--cell CM` (default 1.15), `--rows N` (1), `--copies N` (3), `--no-intro`, repeatable `--font-path DIR`, `--project-dir DIR` (keep editable Typst files), and `--fallback` (force ReportLab; see [fallback limits](references/pdf-fallback.md)).
 
 ## Layout
 
